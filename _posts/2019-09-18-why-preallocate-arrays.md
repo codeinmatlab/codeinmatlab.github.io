@@ -6,7 +6,7 @@ categories:
   - Best practice
 tags:
   - preallocate
-  - for loop
+  - loops
   - memory
   - perfomance
 ---
